@@ -1,0 +1,135 @@
+{
+  "section": {
+    "information": {
+      "title": "Information"
+    },
+    "product": {
+      "title": "Product",
+      "topDescription": "Description",
+      "bottomDescription": "<div style='color: red'>* Selling Fast! The SNOVA Plaziental series is running out of stock due to the 2021 Mother's Day Sale. Orders placed since today will be dispatched from 14/05/2021 onwards. We appreciate your understanding and apologize for the inconvenience.</div>"
+    },
+    "multiProduct": {
+      "title": "Product",
+      "topDescription": "",
+      "bottomDescription": "<div style='color: red'>* Selling Fast! The SNOVA Plaziental series is running out of stock due to the 2021 Mother's Day Sale. Orders placed since today will be dispatched from 14/05/2021 onwards. We appreciate your understanding and apologize for the inconvenience.</div>"
+    },
+    "name": {
+      "title": "Name",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "gender": {
+      "title": "Gender",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "birthday": {
+      "title": "Day of birth",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "address": {
+      "title": "Address",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "agreement": {
+      "title": "Agreement",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "carrier": {
+      "title": "Carrier",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "email": {
+      "title": "E-mail address",
+      "topDescription": "",
+      "bottomDescription": "<div style='color: red'>* Due to the abnormal reception of the hotmail system, please avoid using hotmail.</div>"
+    },
+    "invoice": {
+      "title": "Invoice",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "paymentMethod": {
+      "title": "Payment Method",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "question": {
+      "title": "Question",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "receivingMethod": {
+      "title": "Receiving Method",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "shippingDate": {
+      "title": "Delivery Date and Time",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "shippingMemo": {
+      "title": "Shipping Memo",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "shippingNote": {
+      "title": "Notes to delivery driver",
+      "topDescription": "",
+      "bottomDescription": "",
+      "placeholder": "Memo"
+    },
+    "tel": {
+      "title": "Mobile phone number",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "aboutDelivery": {
+      "title": "Delivery notes※",
+      "content": "1. Free shipping.<br>2. It usually takes about 3-5 working days to deliver, though the actual delivery date/time may vary according to the situation of the logistic company and the delivery area. Sorry for any inconvenience caused.<br>3. It usually cost 3-5 days for delivery, but our products are selling too well recently. It may need more time. It may take about 2~3 weeks. We'll send SMS in the morning of delivery day. Please pay attention on phone, sorry for the inconvenient cause."
+    }
+  },
+  "form": {
+    "button": {
+      "submit": "Order"
+    }
+  },
+  "donatarius": {
+    "TFSWF": "第一社會福利基金會",
+    "JTF": "董氏基金會",
+    "SCIF": "財團法人台北市脊髓損傷社會福利基金會",
+    "caringfortaiwan": "財團法人台北市關懷台灣文教基金會"
+  },
+  "shippingMemo": "* 「農曆新年前兩週至除夕當天」及「端午節、中秋節前一週」為送禮旺季，故無法指定配送時段敬請見諒。實際送達時間，以物流公司的出貨日，送貨路線及貨量為主。<br>  實際到貨時間仍需視宅配公司當日配貨交通狀況及貨量為主，我們將會為您備註，若因宅配公司送貨路線，交通狀況及貨量等緣故無法完全按照指定日期/時刻送貨，給您帶來不便，敬請見諒!謝謝!",
+  "testDescription": "<p>我是一段注意事項</p><p><font color='blue'>我是一段注意事項</font></p><p>我是一段注意事項</p>",
+  "shippingNote": {
+    "placeholder": "本欄「僅限」配送相關之備註。配送以外，特殊要求等，請致電02-2321-1501，感謝您的配合。(最多35個字)"
+  },
+  "header": {
+    "title": "The order information can be completed in about 1.5 minutes!"
+  },
+  "question": {
+    "question1": {
+      "title": "我喜歡台灣"
+    },
+    "question2": {
+      "title": "我喜歡日本"
+    }
+  },
+  "payment": {
+    "paypal": {
+      "title": "Credit Card / PayPal"
+    }
+  },
+  "customizedSection": {
+    "aboutDelivery": {
+      "title": "Delivery notes",
+      "content": "1. Free shipping.<br>2. It usually takes about 3-5 working days to deliver, though the actual delivery date/time may vary according to the situation of the logistic company and the delivery area. Sorry for any inconvenience caused.<br>3. It usually cost 3-5 days for delivery, but our products are selling too well recently. It may need more time. It may take about 2~3 weeks. We'll send SMS in the morning of delivery day. Please pay attention on phone, sorry for the inconvenient cause."
+    }
+  }
+}

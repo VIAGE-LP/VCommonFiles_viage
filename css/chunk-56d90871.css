@@ -1,0 +1,1 @@
+.tel-input{padding-left:42px;position:relative}.tel-input:before{content:attr(data-callingcode);display:block;position:absolute;left:0;line-height:33px;font-size:19px;font-weight:400}

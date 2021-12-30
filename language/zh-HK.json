@@ -1,0 +1,111 @@
+{
+  "common": {
+    "required": "必填"
+  },
+  "section": {
+    "information": {
+      "title": "注意事項"
+    },
+    "product": {
+      "title": "購入商品",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "name": {
+      "title": "收件人姓名",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "gender": {
+      "title": "性別",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "birthday": {
+      "title": "生年月日",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "address": {
+      "title": "收件地址",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "agreement": {
+      "title": "請同意退貨規則",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "carrier": {
+      "title": "共通性載具",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "email": {
+      "title": "電子郵件",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "invoice": {
+      "title": "發票種類",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "paymentMethod": {
+      "title": "請選擇付款方式",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "question": {
+      "title": "問卷",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "receivingMethod": {
+      "title": "取貨方式",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "shippingDate": {
+      "title": "希望配送到貨時間",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "shippingMemo": {
+      "title": "配送備註※",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "shippingNote": {
+      "title": "備註留言",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "tel": {
+      "title": "行動電話",
+      "topDescription": "",
+      "bottomDescription": ""
+    }
+  },
+  "form": {
+    "button": {
+      "submit": "訂購"
+    }
+  },
+  "shippingMemo": "* 「農曆新年前兩週至除夕當天」及「端午節、中秋節前一週」為送禮旺季，故無法指定配送時段敬請見諒。實際送達時間，以物流公司的出貨日，送貨路線及貨量為主。<br>  實際到貨時間仍需視宅配公司當日配貨交通狀況及貨量為主，我們將會為您備註，若因宅配公司送貨路線，交通狀況及貨量等緣故無法完全按照指定日期/時刻送貨，給您帶來不便，敬請見諒!謝謝!",
+  "testDescription": "<p>我是一段注意事項</p><p><font color='blue'>我是一段注意事項</font></p><p>我是一段注意事項</p>",
+  "shippingNote": {
+    "placeholder": "本欄「僅限」配送相關之備註。配送以外，特殊要求等，請致電02-2321-1501，感謝您的配合。(最多35個字)"
+  },
+  "header": {
+    "title": "訂購資訊約10天即可填寫完成"
+  },
+  "question": {
+    "question1": {
+      "title": "我喜歡台灣"
+    },
+    "question2": {
+      "title": "我喜歡日本"
+    }
+  }
+}

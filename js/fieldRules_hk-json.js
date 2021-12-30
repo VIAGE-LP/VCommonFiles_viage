@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["fieldRules_hk-json"],{cf8a:function(e){e.exports=JSON.parse('{"phone":{"rules":{"required":true,"regex":"^\\\\d{8}$","max":8}},"comment":{"rules":{"required":false}}}')}}]);

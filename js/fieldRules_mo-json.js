@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["fieldRules_mo-json"],{"28e2":function(e){e.exports=JSON.parse('{"phone":{"rules":{"required":true,"regex":"^\\\\d{8}$","max":8}},"comment":{"rules":{"required":false}}}')}}]);

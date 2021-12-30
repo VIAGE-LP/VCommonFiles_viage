@@ -1,0 +1,141 @@
+{
+  "common": {
+    "placeholder": {
+      "phone": "請輸入行動電話10碼",
+      "address": "請輸入詳細街道地址(若為公司請註明)(不需重覆輸入縣市區域)"
+    }
+  },
+  "section": {
+    "information": {
+      "title": "注意事項"
+    },
+    "product": {
+      "title": "購入商品",
+      "topDescription": "",
+      "bottomDescription": "<div style='text-align: center;'>商品金額備註※<br>*匯率可能會變動，以刷卡當日為準</div>"
+    },
+    "multiProduct": {
+      "title": "商品選購",
+      "topDescription": "",
+      "bottomDescription": "<div style='text-align: center;'>商品金額備註※<br>*匯率可能會變動，以刷卡當日為準</div>"
+    },
+    "name": {
+      "title": "收件人姓名",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "gender": {
+      "title": "性別",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "birthday": {
+      "title": "出生年月日",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "address": {
+      "title": "收件地址",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "aboutAddress": {
+      "title": "有關地址",
+      "topDescription": "",
+      "bottomDescription": "地址(區，街道地址)，大樓名稱，樓層 (40字內)。例: 香港半山區堅道888號發發大廈8樓A座"
+    },
+    "agreement": {
+      "title": "請同意退貨規則",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "carrier": {
+      "title": "共通性載具",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "email": {
+      "title": "電子郵件",
+      "topDescription": "",
+      "bottomDescription": "<div class='form-group cros-text-primary'>請盡量填寫 hotmail／outlook 以外的E-Mail，避免有可能無法收到訂購通知信件的情形發生<br>若收不到訂購通知的E-Mail，請聯絡我們客服人員</div>"
+    },
+    "invoice": {
+      "title": "發票種類",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "paymentMethod": {
+      "title": "付款方式",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "question": {
+      "title": "問卷",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "receivingMethod": {
+      "title": "取貨方式",
+      "topDescription": "<div class='cros-text-primary'>* 購買超過20000元或5公斤以上的商品無法使用超商服務</div>",
+      "bottomDescription": ""
+    },
+    "shippingDate": {
+      "title": "希望配送到貨時間",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "shippingMemo": {
+      "title": "配送備註※",
+      "topDescription": "",
+      "bottomDescription": "",
+      "content": "* 「農曆新年前兩週至農曆新年期間」、「端午節、中秋節前一週」及「雙11購物節後一至兩週」為物流高峰期，故無法指定配送時段敬請見諒。<br>* 另如遇颱風地震等天災、公共工程、節慶活動管制路段,出貨時間將順延。實際送達時間，以物流公司的出貨日，送貨路線及貨量為主。"
+    },
+    "shippingNote": {
+      "title": "備註留言",
+      "topDescription": "",
+      "bottomDescription": "",
+      "placeholder": "本欄「僅限」配送相關之備註，感謝您的配合。(最多35個字)"
+    },
+    "tel": {
+      "title": "行動電話",
+      "topDescription": "",
+      "bottomDescription": ""
+    }
+  },
+  "form": {
+    "button": {
+      "submit": "訂購"
+    }
+  },
+  "donatarius": {
+    "TFSWF": "第一社會福利基金會",
+    "JTF": "董氏基金會",
+    "SCIF": "財團法人台北市脊髓損傷社會福利基金會",
+    "caringfortaiwan": "財團法人台北市關懷台灣文教基金會"
+  },
+  "shippingMemo": "訂購成功後一般會在2-4工作天内會送達。實際日數按速遞公司作業和通關狀況為準。",
+  "testDescription": "<p>我是一段注意事項</p><p><font color='blue'>我是一段注意事項</font></p><p>我是一段注意事項</p>",
+  "header": {
+    "title": "訂購資訊約1分半即可填寫完成!"
+  },
+  "question": {
+    "question1": {
+      "title": "我喜歡台灣"
+    },
+    "question2": {
+      "title": "我喜歡日本"
+    }
+  },
+  "location": {
+    "islands": "香港島",
+    "kowloon": "九龍",
+    "new_territories": "新界",
+    "macao": "澳門"
+  },
+  "customizedSection": {
+    "aboutDelivery": {
+      "title": "配送備註",
+      "content": "備註"
+    }
+  }
+}

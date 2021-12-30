@@ -1,0 +1,131 @@
+{
+  "common": {
+    "required": "필요",
+    "placeholder": {
+      "phone": "예: 01012345678",
+      "address": "請輸入詳細街道地址(若為公司請註明)"
+    }
+  },
+  "section": {
+    "information": {
+      "title": "注意事項"
+    },
+    "product": {
+      "title": "제품 배송비무료",
+      "topDescription": "",
+      "bottomDescription": "<div style='text-align: center;'>商品金額備註※<br>*匯率可能會變動，以刷卡當日為準</div>"
+    },
+    "name": {
+      "title": "성명 ",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "gender": {
+      "title": "性別",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "birthday": {
+      "title": "생년월일",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "address": {
+      "title": "주소",
+      "topDescription": "",
+      "bottomDescription": "<div class='rightContents' style='color:#B22222; line-height:200%;'>* 해외직배송 상품은 수입신고 진행을 위해 도로명주소와 신우편번호(5자리)로 입력해주십시오.<br>(도로명주소 확인 : www.juso.go.kr)</div>"
+    },
+    "aboutAddress": {
+      "title": "有關地址",
+      "topDescription": "",
+      "bottomDescription": "地址(區，街道地址)，大樓名稱，樓層 (40字內)。例: 香港半山區堅道888號發發大廈8樓A座"
+    },
+    "agreement": {
+      "title": "請同意退貨規則",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "carrier": {
+      "title": "共通性載具",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "email": {
+      "title": "이메일",
+      "topDescription": "",
+      "bottomDescription": "<div class='rightContents' style='color:#B22222; line-height:200%;'>* 이메일을 통해 주문처리과정을 보내드리오니, 반드시 수신가능한 이메일주소를 입력해 주세요.</div>"
+    },
+    "invoice": {
+      "title": "發票種類",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "paymentMethod": {
+      "title": "결제 방법",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "question": {
+      "title": "問卷",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "receivingMethod": {
+      "title": "取貨方式",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "shippingDate": {
+      "title": "希望配送到貨時間",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "shippingMemo": {
+      "title": "配送備註※",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "shippingNote": {
+      "title": "택배 직원에게 메모",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "tel": {
+      "title": "휴대전화",
+      "topDescription": "",
+      "bottomDescription": "<div class='rightContents' style='color:#B22222; line-height:200%;'>* 안심번호(050~)사용시 통관 불가합니다. 통관상 불이익이 생기지 않도록 휴대폰번호를 입력하여 주십시오</div>"
+    }
+  },
+  "form": {
+    "button": {
+      "submit": "訂購"
+    }
+  },
+  "donatarius": {
+    "TFSWF": "第一社會福利基金會",
+    "JTF": "董氏基金會",
+    "SCIF": "財團法人台北市脊髓損傷社會福利基金會",
+    "caringfortaiwan": "財團法人台北市關懷台灣文教基金會"
+  },
+  "shippingMemo": "訂購成功後一般會在2-4工作天内會送達。實際日數按速遞公司作業和通關狀況為準。",
+  "testDescription": "<p>我是一段注意事項</p><p><font color='blue'>我是一段注意事項</font></p><p>我是一段注意事項</p>",
+  "shippingNote": {
+    "placeholder": "택배 직원에게 메모"
+  },
+  "header": {
+    "title": "訂購資訊約1分半即可填寫完成!"
+  },
+  "question": {
+    "question1": {
+      "title": "我喜歡台灣"
+    },
+    "question2": {
+      "title": "我喜歡日本"
+    }
+  },
+  "validations": {
+    "messages": {
+      "phone": "휴대전화格式不正確"
+    }
+  }
+}

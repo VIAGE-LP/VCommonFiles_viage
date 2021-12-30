@@ -1,0 +1,30 @@
+{
+  "zipNoNeedList": [3, 5, 18, 19, 20],
+  "islandNoNeedList": {
+    "4": [12],
+    "17": [13, 14],
+    "21": [22],
+    "22": [1, 2]
+  },
+  "shippingDays": 20,
+  "noShippingDay": [0, 6],
+  "convNoShippingDates": [
+    "2020/6/27",
+    "2020/6/28",
+    "2020/6/29",
+    "2020/6/30",
+    "2020/10/3",
+    "2020/10/4",
+    "2020/10/5",
+    "2020/10/6",
+    "2020/10/11",
+    "2020/10/12",
+    "2020/10/13"
+  ],
+  "convPriceLimit": 5000,
+  "ICType": "2",
+  "areaMaxLength": 15,
+  "carrierCompany": "C",
+  "defaultYear": "1980",
+  "cvsDifferDay": "3"
+}

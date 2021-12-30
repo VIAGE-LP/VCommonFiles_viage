@@ -1,0 +1,117 @@
+{
+  "common": {
+    "required": "Is Required"
+  },
+  "section": {
+    "information": {
+      "title": "Information"
+    },
+    "product": {
+      "title": "Product",
+      "topDescription": "Description",
+      "bottomDescription": ""
+    },
+    "name": {
+      "title": "Name",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "gender": {
+      "title": "Gender",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "birthday": {
+      "title": "Birth",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "address": {
+      "title": "Address",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "agreement": {
+      "title": "Agreement",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "carrier": {
+      "title": "Carrier",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "email": {
+      "title": "Email",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "invoice": {
+      "title": "Invoice",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "paymentMethod": {
+      "title": "Payment Method",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "question": {
+      "title": "Question",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "receivingMethod": {
+      "title": "Receiving Method",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "shippingDate": {
+      "title": "Shipping Date",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "shippingMemo": {
+      "title": "Shipping Memo",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "shippingNote": {
+      "title": "Shipping Note",
+      "topDescription": "",
+      "bottomDescription": ""
+    },
+    "tel": {
+      "title": "Tel.",
+      "topDescription": "",
+      "bottomDescription": ""
+    }
+  },
+  "form": {
+    "button": {
+      "submit": "訂購"
+    }
+  },
+  "donatarius": {
+    "TFSWF": "第一社會福利基金會",
+    "JTF": "董氏基金會",
+    "SCIF": "財團法人台北市脊髓損傷社會福利基金會",
+    "caringfortaiwan": "財團法人台北市關懷台灣文教基金會"
+  },
+  "shippingMemo": "* 「農曆新年前兩週至除夕當天」及「端午節、中秋節前一週」為送禮旺季，故無法指定配送時段敬請見諒。實際送達時間，以物流公司的出貨日，送貨路線及貨量為主。<br>  實際到貨時間仍需視宅配公司當日配貨交通狀況及貨量為主，我們將會為您備註，若因宅配公司送貨路線，交通狀況及貨量等緣故無法完全按照指定日期/時刻送貨，給您帶來不便，敬請見諒!謝謝!",
+  "testDescription": "<p>我是一段注意事項</p><p><font color='blue'>我是一段注意事項</font></p><p>我是一段注意事項</p>",
+  "shippingNote": {
+    "placeholder": "本欄「僅限」配送相關之備註。配送以外，特殊要求等，請致電02-2321-1501，感謝您的配合。(最多35個字)"
+  },
+  "header": {
+    "title": "訂購資訊約1分半即可填寫完成!"
+  },
+  "question": {
+    "question1": {
+      "title": "我喜歡台灣"
+    },
+    "question2": {
+      "title": "我喜歡日本"
+    }
+  }
+}
